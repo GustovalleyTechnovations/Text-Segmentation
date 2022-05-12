@@ -1,1 +1,3 @@
-
+1. Blurred Texts from natural scene
+2. Word predictor at the end simplifies wrong text recognition.
+3. 
